@@ -1,11 +1,6 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+
+  "Image": "./image1",
+  "Title": "Побег из Притории",
+  "Genre": "Триллер"
+}
